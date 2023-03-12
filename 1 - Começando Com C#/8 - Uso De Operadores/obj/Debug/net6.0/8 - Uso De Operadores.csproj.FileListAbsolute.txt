@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\bin\Debug\net6.0\8 - Uso De Operadores.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\bin\Debug\net6.0\8 - Uso De Operadores.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\bin\Debug\net6.0\8 - Uso De Operadores.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\bin\Debug\net6.0\8 - Uso De Operadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\bin\Debug\net6.0\8 - Uso De Operadores.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\refint\8 - Uso De Operadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\8 - Uso De Operadores.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\8 - Uso De Operadores\obj\Debug\net6.0\ref\8 - Uso De Operadores.dll

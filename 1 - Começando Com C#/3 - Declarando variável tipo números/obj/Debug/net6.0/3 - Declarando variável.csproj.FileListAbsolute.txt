@@ -1,0 +1,45 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\bin\Debug\net6.0\3 - Declarando variável.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\bin\Debug\net6.0\3 - Declarando variável.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\bin\Debug\net6.0\3 - Declarando variável.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\bin\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\bin\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\refint\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\3 - Declarando variável.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável\obj\Debug\net6.0\ref\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\refint\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\3 - Declarando variável tipo números\obj\Debug\net6.0\ref\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.exe
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.deps.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\bin\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\refint\3 - Declarando variável.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\3 - Declarando variável.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\3 - Declarando variável tipo números\obj\Debug\net6.0\ref\3 - Declarando variável.dll

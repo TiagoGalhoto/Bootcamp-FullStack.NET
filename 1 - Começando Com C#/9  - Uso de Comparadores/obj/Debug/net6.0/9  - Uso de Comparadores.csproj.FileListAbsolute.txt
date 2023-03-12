@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\bin\Debug\net6.0\9  - Uso de Comparadores.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\bin\Debug\net6.0\9  - Uso de Comparadores.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\bin\Debug\net6.0\9  - Uso de Comparadores.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\bin\Debug\net6.0\9  - Uso de Comparadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\bin\Debug\net6.0\9  - Uso de Comparadores.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\refint\9  - Uso de Comparadores.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\9  - Uso de Comparadores.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\9  - Uso de Comparadores\obj\Debug\net6.0\ref\9  - Uso de Comparadores.dll

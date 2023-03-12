@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\bin\Debug\net6.0\6 - Declarando um tipo Object.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\bin\Debug\net6.0\6 - Declarando um tipo Object.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\bin\Debug\net6.0\6 - Declarando um tipo Object.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\bin\Debug\net6.0\6 - Declarando um tipo Object.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\bin\Debug\net6.0\6 - Declarando um tipo Object.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\refint\6 - Declarando um tipo Object.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\6 - Declarando um tipo Object.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\6 - Declarando um tipo Object\obj\Debug\net6.0\ref\6 - Declarando um tipo Object.dll

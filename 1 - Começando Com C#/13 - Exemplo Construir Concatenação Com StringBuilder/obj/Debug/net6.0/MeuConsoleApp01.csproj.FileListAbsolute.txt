@@ -1,0 +1,30 @@
+C:\Users\tiago\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.exe
+C:\Users\tiago\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.deps.json
+C:\Users\tiago\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.runtimeconfig.json
+C:\Users\tiago\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.dll
+C:\Users\tiago\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.pdb
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.csproj.AssemblyReference.cache
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.AssemblyInfoInputs.cache
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.AssemblyInfo.cs
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.csproj.CoreCompileInputs.cache
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.dll
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\refint\MeuConsoleApp01.dll
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.pdb
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.genruntimeconfig.cache
+C:\Users\tiago\MeuConsoleApp01\obj\Debug\net6.0\ref\MeuConsoleApp01.dll
+E:\Balta Codificação\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.exe
+E:\Balta Codificação\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.deps.json
+E:\Balta Codificação\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.runtimeconfig.json
+E:\Balta Codificação\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.dll
+E:\Balta Codificação\MeuConsoleApp01\bin\Debug\net6.0\MeuConsoleApp01.pdb
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.csproj.AssemblyReference.cache
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.AssemblyInfoInputs.cache
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.AssemblyInfo.cs
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.dll
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\refint\MeuConsoleApp01.dll
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.pdb
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\MeuConsoleApp01.genruntimeconfig.cache
+E:\Balta Codificação\MeuConsoleApp01\obj\Debug\net6.0\ref\MeuConsoleApp01.dll

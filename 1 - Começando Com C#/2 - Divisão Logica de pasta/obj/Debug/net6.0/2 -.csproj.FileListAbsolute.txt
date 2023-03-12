@@ -1,0 +1,30 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\refint\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Divisão Logica de pasta\obj\Debug\net6.0\ref\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.exe
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.deps.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\bin\Debug\net6.0\2 -.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\refint\2 -.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\2 -.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\2 - Divisão Logica de pasta\obj\Debug\net6.0\ref\2 -.dll

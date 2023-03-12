@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\bin\Debug\net6.0\4 - Declarando Variável Tipo Texto.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\bin\Debug\net6.0\4 - Declarando Variável Tipo Texto.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\bin\Debug\net6.0\4 - Declarando Variável Tipo Texto.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\bin\Debug\net6.0\4 - Declarando Variável Tipo Texto.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\bin\Debug\net6.0\4 - Declarando Variável Tipo Texto.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\refint\4 - Declarando Variável Tipo Texto.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\4 - Declarando Variável Tipo Texto.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\4 - Declarando Variável Tipo Texto\obj\Debug\net6.0\ref\4 - Declarando Variável Tipo Texto.dll

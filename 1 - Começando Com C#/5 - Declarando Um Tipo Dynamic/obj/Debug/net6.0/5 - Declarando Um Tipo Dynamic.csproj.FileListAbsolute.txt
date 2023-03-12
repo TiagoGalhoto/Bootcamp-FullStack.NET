@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\bin\Debug\net6.0\5 - Declarando Um Tipo Dynamic.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\bin\Debug\net6.0\5 - Declarando Um Tipo Dynamic.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\bin\Debug\net6.0\5 - Declarando Um Tipo Dynamic.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\bin\Debug\net6.0\5 - Declarando Um Tipo Dynamic.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\bin\Debug\net6.0\5 - Declarando Um Tipo Dynamic.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\refint\5 - Declarando Um Tipo Dynamic.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\5 - Declarando Um Tipo Dynamic.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\5 - Declarando Um Tipo Dynamic\obj\Debug\net6.0\ref\5 - Declarando Um Tipo Dynamic.dll

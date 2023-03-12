@@ -1,0 +1,30 @@
+E:\Balta Codificação\MeuConsole\bin\Debug\net6.0\MeuConsole.exe
+E:\Balta Codificação\MeuConsole\bin\Debug\net6.0\MeuConsole.deps.json
+E:\Balta Codificação\MeuConsole\bin\Debug\net6.0\MeuConsole.runtimeconfig.json
+E:\Balta Codificação\MeuConsole\bin\Debug\net6.0\MeuConsole.dll
+E:\Balta Codificação\MeuConsole\bin\Debug\net6.0\MeuConsole.pdb
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.csproj.AssemblyReference.cache
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.AssemblyInfoInputs.cache
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.AssemblyInfo.cs
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.dll
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\refint\MeuConsole.dll
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.pdb
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\MeuConsole.genruntimeconfig.cache
+E:\Balta Codificação\MeuConsole\obj\Debug\net6.0\ref\MeuConsole.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\bin\Debug\net6.0\MeuConsole.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\bin\Debug\net6.0\MeuConsole.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\bin\Debug\net6.0\MeuConsole.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\bin\Debug\net6.0\MeuConsole.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\bin\Debug\net6.0\MeuConsole.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\refint\MeuConsole.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\MeuConsole.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\2 - Exemplo Construir Concatenação Com StringBuilder\obj\Debug\net6.0\ref\MeuConsole.dll

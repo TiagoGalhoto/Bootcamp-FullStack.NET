@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\bin\Debug\net6.0\7 - Modificadores De Acesso.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\bin\Debug\net6.0\7 - Modificadores De Acesso.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\bin\Debug\net6.0\7 - Modificadores De Acesso.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\bin\Debug\net6.0\7 - Modificadores De Acesso.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\bin\Debug\net6.0\7 - Modificadores De Acesso.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\refint\7 - Modificadores De Acesso.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\7 - Modificadores De Acesso.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\7 - Modificadores De Acesso\obj\Debug\net6.0\ref\7 - Modificadores De Acesso.dll

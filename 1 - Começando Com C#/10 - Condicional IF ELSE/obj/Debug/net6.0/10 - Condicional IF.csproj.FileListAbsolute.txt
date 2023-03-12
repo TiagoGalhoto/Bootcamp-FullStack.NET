@@ -1,0 +1,30 @@
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\bin\Debug\net6.0\10 - Condicional IF.exe
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\bin\Debug\net6.0\10 - Condicional IF.deps.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\bin\Debug\net6.0\10 - Condicional IF.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\bin\Debug\net6.0\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\bin\Debug\net6.0\10 - Condicional IF.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\refint\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.pdb
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\10 - Condicional IF.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack .NET\1 - Começando Com C#\10 - Condicional IF\obj\Debug\net6.0\ref\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\bin\Debug\net6.0\10 - Condicional IF.exe
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\bin\Debug\net6.0\10 - Condicional IF.deps.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\bin\Debug\net6.0\10 - Condicional IF.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\bin\Debug\net6.0\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\bin\Debug\net6.0\10 - Condicional IF.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\refint\10 - Condicional IF.dll
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.pdb
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\10 - Condicional IF.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack. NET\1 - Começando Com C#\10 - Condicional IF ELSE\obj\Debug\net6.0\ref\10 - Condicional IF.dll
