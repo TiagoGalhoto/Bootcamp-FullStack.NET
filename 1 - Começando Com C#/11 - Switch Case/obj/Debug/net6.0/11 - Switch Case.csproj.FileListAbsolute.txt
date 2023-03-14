@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\bin\Debug\net6.0\11 - Switch Case.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\bin\Debug\net6.0\11 - Switch Case.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\bin\Debug\net6.0\11 - Switch Case.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\bin\Debug\net6.0\11 - Switch Case.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\bin\Debug\net6.0\11 - Switch Case.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\refint\11 - Switch Case.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\11 - Switch Case.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\11 - Switch Case\obj\Debug\net6.0\ref\11 - Switch Case.dll
