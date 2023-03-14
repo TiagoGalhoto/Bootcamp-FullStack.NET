@@ -21,5 +21,10 @@ namespace CondicionalEnum
 
             }
         }
+        public enum EstadoCivil
+        {
+            Casado = 1,
+            Solteiro = 0
+        }
     }   
 }

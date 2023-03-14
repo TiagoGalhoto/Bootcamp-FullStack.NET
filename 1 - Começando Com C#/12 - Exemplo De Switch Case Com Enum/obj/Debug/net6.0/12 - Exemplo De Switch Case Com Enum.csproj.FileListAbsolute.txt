@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\bin\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\bin\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\bin\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\bin\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\bin\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\refint\12 - Exemplo De Switch Case Com Enum.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\12 - Exemplo De Switch Case Com Enum.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\12 - Exemplo De Switch Case Com Enum\obj\Debug\net6.0\ref\12 - Exemplo De Switch Case Com Enum.dll
