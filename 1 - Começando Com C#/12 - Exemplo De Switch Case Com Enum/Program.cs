@@ -1,30 +1,34 @@
-﻿
-namespace CondicionalEnum
+﻿namespace CondicionalEnum
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var Teste = 1;
-            switch (Teste)
+            var pessoa = new Pessoa();
+            pessoa.EstadoCivil = EstadoCivil.Casado;
+
+            switch (pessoa.EstadoCivil)
             {
-                case 1:
-                    Console.WriteLine("Um...!!!");
+                case EstadoCivil.Casado:
+                    Console.WriteLine("Casado...!!!");
                     break;
 
-                case 2:
-                    Console.WriteLine("Dois...!!!");
+                case EstadoCivil.Solteiro:
+                    Console.WriteLine("Solteiro...!!!");
                     break;
+
                 default:
-                    Console.WriteLine("Não encontrou nada...!!!");
-                    break;
-
+                    throw new ArgumentOutOfRangeException();
             }
         }
-        public enum EstadoCivil
-        {
-            Casado = 1,
-            Solteiro = 0
-        }
-    }   
+    }
+    public class Pessoa
+    {
+        public EstadoCivil EstadoCivil { get; set; }
+    }
+    public enum EstadoCivil
+    {
+        Casado = 1,
+        Solteiro = 2
+    }
 }
