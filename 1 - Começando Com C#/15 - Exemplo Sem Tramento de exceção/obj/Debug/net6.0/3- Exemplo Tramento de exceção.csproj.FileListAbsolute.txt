@@ -13,3 +13,18 @@ E:\Balta Codificação\Bootcamp FullStack .NET\3- Exemplo Tramento de exceção\
 E:\Balta Codificação\Bootcamp FullStack .NET\3- Exemplo Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.pdb
 E:\Balta Codificação\Bootcamp FullStack .NET\3- Exemplo Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.genruntimeconfig.cache
 E:\Balta Codificação\Bootcamp FullStack .NET\3- Exemplo Tramento de exceção\obj\Debug\net6.0\ref\3- Exemplo Tramento de exceção.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\bin\Debug\net6.0\3- Exemplo Tramento de exceção.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\bin\Debug\net6.0\3- Exemplo Tramento de exceção.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\bin\Debug\net6.0\3- Exemplo Tramento de exceção.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\bin\Debug\net6.0\3- Exemplo Tramento de exceção.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\bin\Debug\net6.0\3- Exemplo Tramento de exceção.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\refint\3- Exemplo Tramento de exceção.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\3- Exemplo Tramento de exceção.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Exemplo Sem Tramento de exceção\obj\Debug\net6.0\ref\3- Exemplo Tramento de exceção.dll
