@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Balta Codificação\\Bootcamp FullStack .NET\\4 - Exemplo Com tramento de exceção\\4 - Exemplo Com tramento de exceção.csproj",
+      "projectUniqueName": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\16 - Exemplo Com tramento de exceção\\4 - Exemplo Com tramento de exceção.csproj",
       "projectName": "4 - Exemplo Com tramento de exceção",
-      "projectPath": "E:\\Balta Codificação\\Bootcamp FullStack .NET\\4 - Exemplo Com tramento de exceção\\4 - Exemplo Com tramento de exceção.csproj",
+      "projectPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\16 - Exemplo Com tramento de exceção\\4 - Exemplo Com tramento de exceção.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "E:\\Balta Codificação\\Bootcamp FullStack .NET\\4 - Exemplo Com tramento de exceção\\obj\\",
+      "outputPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\16 - Exemplo Com tramento de exceção\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
