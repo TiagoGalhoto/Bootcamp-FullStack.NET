@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\bin\Debug\net6.0\13 - Laço De Reptição FOR.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\bin\Debug\net6.0\13 - Laço De Reptição FOR.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\bin\Debug\net6.0\13 - Laço De Reptição FOR.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\bin\Debug\net6.0\13 - Laço De Reptição FOR.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\bin\Debug\net6.0\13 - Laço De Reptição FOR.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\refint\13 - Laço De Reptição FOR.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\13 - Laço De Reptição FOR.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\13 - Laço De Reptição FOR\obj\Debug\net6.0\ref\13 - Laço De Reptição FOR.dll
