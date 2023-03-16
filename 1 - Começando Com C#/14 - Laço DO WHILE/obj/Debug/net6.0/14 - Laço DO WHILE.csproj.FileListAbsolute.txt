@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\bin\Debug\net6.0\14 - Laço DO WHILE.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\bin\Debug\net6.0\14 - Laço DO WHILE.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\bin\Debug\net6.0\14 - Laço DO WHILE.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\bin\Debug\net6.0\14 - Laço DO WHILE.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\bin\Debug\net6.0\14 - Laço DO WHILE.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\refint\14 - Laço DO WHILE.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\14 - Laço DO WHILE.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\14 - Laço DO WHILE\obj\Debug\net6.0\ref\14 - Laço DO WHILE.dll
