@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\bin\Debug\net6.0\15 - Laço FOREACH.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\bin\Debug\net6.0\15 - Laço FOREACH.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\bin\Debug\net6.0\15 - Laço FOREACH.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\bin\Debug\net6.0\15 - Laço FOREACH.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\bin\Debug\net6.0\15 - Laço FOREACH.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\refint\15 - Laço FOREACH.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\15 - Laço FOREACH.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\15 - Laço FOREACH\obj\Debug\net6.0\ref\15 - Laço FOREACH.dll
