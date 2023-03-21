@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH\\15 - Laço FOREACH.csproj": {}
+    "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH Com LIST\\15 - Laço FOREACH.csproj": {}
   },
   "projects": {
-    "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH\\15 - Laço FOREACH.csproj": {
+    "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH Com LIST\\15 - Laço FOREACH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH\\15 - Laço FOREACH.csproj",
+        "projectUniqueName": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH Com LIST\\15 - Laço FOREACH.csproj",
         "projectName": "15 - Laço FOREACH",
-        "projectPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH\\15 - Laço FOREACH.csproj",
+        "projectPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH Com LIST\\15 - Laço FOREACH.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH\\obj\\",
+        "outputPath": "E:\\Balta Codificação\\Bootcamp FullStack.NET\\1 - Começando Com C#\\15 - Laço FOREACH Com LIST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
