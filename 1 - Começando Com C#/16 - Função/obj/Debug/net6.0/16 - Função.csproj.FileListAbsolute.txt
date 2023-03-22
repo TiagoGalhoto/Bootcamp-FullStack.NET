@@ -1,0 +1,15 @@
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\bin\Debug\net6.0\16 - Função.exe
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\bin\Debug\net6.0\16 - Função.deps.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\bin\Debug\net6.0\16 - Função.runtimeconfig.json
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\bin\Debug\net6.0\16 - Função.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\bin\Debug\net6.0\16 - Função.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.csproj.AssemblyReference.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.GeneratedMSBuildEditorConfig.editorconfig
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.AssemblyInfoInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.AssemblyInfo.cs
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.csproj.CoreCompileInputs.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\refint\16 - Função.dll
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.pdb
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\16 - Função.genruntimeconfig.cache
+E:\Balta Codificação\Bootcamp FullStack.NET\1 - Começando Com C#\16 - Função\obj\Debug\net6.0\ref\16 - Função.dll
