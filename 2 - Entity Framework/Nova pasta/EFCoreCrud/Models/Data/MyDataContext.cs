@@ -1,9 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using EfCoreCrud.Models;
 
-
-
-namespace EFCoreCrud.Data;
+namespace EfCoreCrud.Data;
 
 public class MyDataContext : DbContext
 {
@@ -12,11 +10,11 @@ public class MyDataContext : DbContext
     {
 
     }*/
-
+    /*Banco De Dados em memória, aplicação finalizou pede os dados.*/
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
-       options.UseInMemoryDatabase(databaseName:"todos");
-        
+        options.UseInMemoryDatabase(databaseName: "todos");
+
     }
-    public DbSet<Todo> todos { get; set; }
+    public DbSet<Todo> Todos { get; set; }
 }
